@@ -9,7 +9,7 @@ Node wrapper for [Robocopy](http://technet.microsoft.com/en-us/library/cc733145.
 ## Install
 
 ```bash
-$ npm install robocopy --save
+$ npm install robocopyf --save
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ npm install robocopy --save
  The first parameter is the options:
 
 ```js
-var robocopy = require('robocopy');
+var robocopy = require('robocopyf');
 
 robocopy({ ... });
 ```
