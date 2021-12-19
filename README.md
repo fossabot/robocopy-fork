@@ -1,5 +1,6 @@
 # robocopy-fork
 https://github.com/mikeobrien/node-robocopy/pull/8 by @jmcouillard
+https://github.com/mikeobrien/node-robocopy/issues/7 by @kadian1470
 
 [![npm version](http://img.shields.io/npm/v/robocopy.svg?style=flat)](https://npmjs.org/package/robocopy) [![build status](http://img.shields.io/travis/mikeobrien/node-robocopy.svg?style=flat)](https://travis-ci.org/mikeobrien/node-robocopy) [![Dependency Status](http://img.shields.io/david/mikeobrien/node-robocopy.svg?style=flat)](https://david-dm.org/mikeobrien/node-robocopy) [![npm downloads](http://img.shields.io/npm/dm/robocopy.svg?style=flat)](https://npmjs.org/package/robocopy)
 
