@@ -3,6 +3,7 @@ https://github.com/mikeobrien/node-robocopy/pull/8 by @jmcouillard
 https://github.com/mikeobrien/node-robocopy/issues/7 by @kadian1470
 
 [![npm version](http://img.shields.io/npm/v/robocopy.svg?style=flat)](https://npmjs.org/package/robocopy) [![build status](http://img.shields.io/travis/mikeobrien/node-robocopy.svg?style=flat)](https://travis-ci.org/mikeobrien/node-robocopy) [![Dependency Status](http://img.shields.io/david/mikeobrien/node-robocopy.svg?style=flat)](https://david-dm.org/mikeobrien/node-robocopy) [![npm downloads](http://img.shields.io/npm/dm/robocopy.svg?style=flat)](https://npmjs.org/package/robocopy)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNightyLighty%2Frobocopy-fork.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNightyLighty%2Frobocopy-fork?ref=badge_shield)
 
 Node wrapper for [Robocopy](http://technet.microsoft.com/en-us/library/cc733145.aspx).
 
@@ -375,3 +376,6 @@ robocopy({
 
 ## License
 MIT License
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNightyLighty%2Frobocopy-fork.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNightyLighty%2Frobocopy-fork?ref=badge_large)
